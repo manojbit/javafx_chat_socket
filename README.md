@@ -31,4 +31,4 @@ A java based chatting application with GUI in JavaFX.
 <img src="https://github.com/garvit14/Chit-Chat/blob/master/screenshots/profile.png">
 <img src="https://github.com/garvit14/Chit-Chat/blob/master/screenshots/request.png">
 
-*Tested on Windows Operating System*
+*Tested on Windows-10 Operating System*
