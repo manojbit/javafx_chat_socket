@@ -2,7 +2,8 @@
 A java based chatting application with GUI in JavaFX.
 
 ## Requirements :
-- JDK 8 or above
+- JDK 17 or above
+- Java FX SDK 17(javafx-sdk-17.0.9)
 - jdbc-sql connector
 - MySql
 
